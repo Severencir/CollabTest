@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 6395505896641656602}
   - component: {fileID: 6360605323216900163}
   - component: {fileID: 4461413110957779478}
-  - component: {fileID: 5267098632537202788}
   - component: {fileID: 2353342973991675630}
   m_Layer: 0
   m_Name: TestCube
@@ -99,19 +98,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &5267098632537202788
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2070602716735813246}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1429ce22e5c6c5d429487c99feb0fb3a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  testVar: {fileID: 0}
 --- !u!114 &2353342973991675630
 MonoBehaviour:
   m_ObjectHideFlags: 0
